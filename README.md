@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! This is a responsive and modern websit
 
 ## 🚀 Live Preview
 
-🔗 [Click here to view the live portfolio](my-react-portfolio-web.vercel.app/)
+🔗 [Click here to view the live portfolio](https://my-react-portfolio-web.vercel.app/)
 
 
 ## 📂 Features
