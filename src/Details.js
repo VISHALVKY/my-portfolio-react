@@ -1,4 +1,3 @@
-// Enter all your detials in this file
 // Logo images
 import logogradient from "./assets/logo.svg";
 import logo from "./assets/logo2.svg";
@@ -55,7 +54,7 @@ export const logos = {
   logo: logo,
 };
 
-// Enter your Personal Details here
+// Personal Details here
 export const personalDetails = {
   name: "Vishal V",
   tagline: "I build things for web",
@@ -63,13 +62,13 @@ export const personalDetails = {
   about: `Committed to continuous learning and staying updated on emerging technologies. Excellent communication and collaboration abilities. Quick learner and adaptable team player with a strong analytical mindset. Ready to contribute effectively in the software industry.`,
 };
 
-// Enter your Social Media URLs here
+// Social Media URLs here
 export const socialMediaUrl = {
   linkdein: "https://www.linkedin.com/in/vishal-v-27088422a/",
   github: "https://www.github.com/VISHALVKY",
 };
 
-// Enter your Work Experience here
+// Work Experience here
 export const workDetails = [
   {
     Position: "Web Developer Intern",
@@ -115,7 +114,7 @@ export const workDetails = [
   }
 ];
 
-// Enter your Education Details here
+// Education Details here
 export const eduDetails = [
   {
     Position: "BE-Computer Science and Engineering",
@@ -154,7 +153,7 @@ export const techStackDetails = {
   // sass: sass,
 };
 
-// Enter your Project Details here
+// Project Details here
 export const projectDetails = [
   {
     title: "Amazon Clone",
@@ -317,9 +316,3 @@ export const projectDetails = [
     githubLink: "https://github.com/VISHALVKY/youtube-clone",
   }
 ];
-
-// Enter your Contact Details here
-// export const contactDetails = {
-//   email: "vishal.viswanaathan@gmail.com",
-//   phone: "+91 8270249850",
-// };
