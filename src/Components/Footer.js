@@ -1,20 +1,17 @@
 import React from "react";
 function Footer() {
   return (
-    <footer className="container mx-auto py-1 fixed bottom-0 md:left-20 bg-white dark:bg-dark-mode">
-      <p className="text-xs text-center text-dark-content dark:text-light-content w-full">
+    <footer className="hidden md:block py-3 text-center border-t border-gray-200 dark:border-white/10 bg-white dark:bg-dark-mode transition-colors duration-300">
+      <p className="text-xs text-dark-content dark:text-light-content">
         Designed and Coded by{" "}
         <a
-          className="font-medium"
+          className="font-medium text-blue-500 hover:underline"
           href="https://github.com/VISHALVKY"
           target="_blank"
           rel="noreferrer noopener"
         >
           Vishal
-        </a>{" "}
-        {/* with
-        <span className="text-gradient font-medium"> Love</span> &
-        <span className="text-gradient font-medium"> Coffee</span> */}
+        </a>
       </p>
     </footer>
   );
