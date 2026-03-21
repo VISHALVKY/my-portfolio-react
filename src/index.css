@@ -20,8 +20,8 @@
 }
 body {
   overflow-x: hidden;
+  @apply bg-white dark:bg-dark-mode transition-colors duration-300;
 }
-/* Hide scrollbar for Chrome, Safari and Opera */
 body::-webkit-scrollbar {
   display: none;
 }
